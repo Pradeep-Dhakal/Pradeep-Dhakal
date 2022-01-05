@@ -1,6 +1,6 @@
 ### Hi there 👋, Pradeep Dhakal
 #### Big Data Analysis, Design, Development, Testing
-![Big Data Analysis, Design, Development, Testing](https://media-exp1.licdn.com/dms/image/C4D03AQGAli4aayx1iw/profile-displayphoto-shrink_100_100/0/1633527201829?e=1646870400&v=beta&t=P5M-5NNc4tKmHSWTv-KwfFHl9ULdGWzpTg66HqmZ88E)
+![Big Data Analysis, Design, Development, Testing](https://github.com/Pradeep-Dhakal/Pradeep-Dhakal/blob/main/20211231_112513_01%20(1).jpg)
 
 ### Hi there! 👋
 I'm Pradeep from Nepal, and i do software development. I really enjoy learning languages and their frameworks 
