@@ -1,5 +1,5 @@
 ### Hi there 👋, Pradeep Dhakal
-#### Big Data Analysis, Design, Development, Testing
+#### Big Data, Machine Learning, Design, Development, Testing
 ![Big Data Analysis, Design, Development, Testing](https://github.com/Pradeep-Dhakal/Pradeep-Dhakal/blob/main/IMG_9953-removebg-preview.png)
 
 ### Hi there! 👋
