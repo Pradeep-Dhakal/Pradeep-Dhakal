@@ -8,7 +8,7 @@ you can find me at facebook.com/pradeep.dhakal.528 and inkedin.com/in/pradeep-dh
 
 Skills: JS / HTML / CSS / Python / Java/ C++/ C/ Machine Learning/ Data Analysis
 
-- 🔭 I’m currently working on Green Computing Nepal  
+- 🔭 I’m currently working on IT Arrow PVT LTD  
 - 🌱 I’m currently learning Data Analysis  
 - 📫 How to reach me: http://facebook.com/pradeep.dhakal.528 
 - ⚡ Fun fact: I don't know 
